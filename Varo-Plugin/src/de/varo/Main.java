@@ -25,7 +25,6 @@ public class Main extends JavaPlugin {
 	public ArrayList<Player> isfreeze = new ArrayList<>();
 	public ArrayList<VaroTeam> teams = new ArrayList<>();
 	public HashMap<Player, KickRunnable> playerKickTask = new HashMap<>();
-	public ArrayList<Player> spieler = new ArrayList<>();
 
 	public String prefix = "§6[Varo] ";
 
