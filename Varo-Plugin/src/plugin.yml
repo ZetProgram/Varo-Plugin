@@ -1,0 +1,9 @@
+name: Varo
+main: de.varo.Main
+version: 3.0
+author: Zet
+
+commands:
+   varo:
+      usage: /varo help
+      description: /varo help
